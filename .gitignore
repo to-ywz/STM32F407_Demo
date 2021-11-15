@@ -1,0 +1,12 @@
+MDK-ARM/APP_file/*.o
+MDK-ARM/APP_file/*.d
+MDK-ARM/APP_file/*.crf
+MDK-ARM/APP_file/*.map
+MDK-ARM/APP_file/*.hex
+MDK-ARM/APP_file/*.axf
+MDK-ARM/APP_file/*.sct
+MDK-ARM/APP_file/*.dep
+MDK-ARM/APP_file/*.htm
+MDK-ARM/APP_file/*.lnp
+MDK-ARM/APP_file/*.Bak
+MDK-ARM/APP_file/*.iex
